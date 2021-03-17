@@ -26,9 +26,9 @@ navlinks:
 
 # Build settings
 paginate: 3
-baseurl: "/ezora-jekyll-theme" # the subpath of your site, e.g. /blog/
+baseurl: "/pag2" # the subpath of your site, e.g. /blog/
 #baseurl: ""
-url: "https://ezrasavard.github.io" # the base hostname & protocol for your site
+url: "https://leokonig.github.io" # the base hostname & protocol for your site
 highlights: pygments
 permalink: posts/:title/
 include: ["_pages"]
